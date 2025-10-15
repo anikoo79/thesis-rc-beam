@@ -1,6 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ECHO is on.
+# Environments
+.env/
+.venv/
+*.egg-info/
+ECHO is on.
+# Large/derived artifacts
 data/
 reports/figures/
 reports/tables/
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
+reports/models/
+ECHO is on.
+# Keep small, essential samples/schemas
+!data/beam_schema_empty.csv
+!data/beam_schema.json
+!data/beam_samples_small.csv
