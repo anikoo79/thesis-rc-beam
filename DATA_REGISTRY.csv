@@ -2,3 +2,8 @@ id,version,source_name,url_or_origin,license,path,format,n_rows,size_bytes,creat
 beam_small,0.1,self_synthetic,,internal,data/samples/beam_samples_small.csv,csv,200,NA,2025-10-20,Amir,Sanity dataset for pipeline
 ec2_beams_v1,1.0,Eurocode2_calc,my_script_v1,internal,data/processed/ec2_beams_v1.csv,csv,NA,NA,2025-11-01,Amir,First EC2-compliant dataset
 assistant_ref_2025,1.0,AssistantShared,,internal,data\external\references\notes.pdf,pdf,NA,NA,2025-10-21,Assistant,"Notes PDF via Sciebo"
+assistant_ACI440Mn,1.0,AssistantShared,,internal,data/raw/assistant/ACI440_Mn.npy,npy,NA,NA,2025-10-23,Assistant,"NumPy array from assistant"
+assistant_Ana_TTC_M_u,1.0,AssistantShared,,internal,data/raw/assistant/Ana_TTC_M_u.npy,npy,NA,NA,2025-10-23,Assistant,"NumPy array from assistant"
+assistant_designspace_meshgrid,1.0,AssistantShared,,internal,data/raw/assistant/designspace_meshgrid_data.npz,npz,NA,NA,2025-10-23,Assistant,"Meshgrid design-space data (npz)"
+assistant_Design_space2,1.0,AssistantShared,,internal,data/raw/assistant/Design_space2.npy,npy,NA,NA,2025-10-23,Assistant,"Design space (npy)"
+assistant_Mu2,1.0,AssistantShared,,internal,data/raw/assistant/Mu2.npy,npy,NA,NA,2025-10-23,Assistant,"Moment data (npy)"
