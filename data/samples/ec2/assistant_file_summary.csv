@@ -1,0 +1,8 @@
+file,type,shape,dtype
+ACI440_Mn.npy,npy,"(100, 301, 100)",float64
+Ana_TTC_M_u.npy,npy,"(100, 301, 100)",float64
+Design_space2.npy,npy,"(3010000, 3)",float64
+designspace_meshgrid_data.npz::rho_mesh,npz,"(100, 301, 100)",float64
+designspace_meshgrid_data.npz::b_mesh,npz,"(100, 301, 100)",float64
+designspace_meshgrid_data.npz::d_mesh,npz,"(100, 301, 100)",float64
+Mu2.npy,npy,"(3010000,)",float64
